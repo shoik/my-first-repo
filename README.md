@@ -1,1 +1,1 @@
-# my-awesome-repo
+# my-training-repo
